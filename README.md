@@ -68,14 +68,14 @@ The animation `food_inflation_trend_norway.mp4` shows an interactive build-up of
 ## 🔗 LinkedIn Post
 
 📢 See the visual and insights shared on LinkedIn:  
-👉 [https://www.linkedin.com/in/your-profile/posts](https://www.linkedin.com/in/your-profile/posts)
+👉 https://www.linkedin.com/feed/update/urn:li:ugcPost:7341212697016897537/
 
 ---
 
 ## 👨‍💻 Author
 
 **Rodi Hoto** – Data Scientist & Analyst  
-📧 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile)
+📧 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rodi-hoto-169374b2/)
 
 ---
 
